@@ -4,7 +4,7 @@ Below are the Frontend projects I have worked on.
 
 
 ## Frontend Project
-- [Hounter](./hounter/index.html)
+- [Hounter](./hounter)
 
 
 ## License 
