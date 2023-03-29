@@ -77,6 +77,7 @@ git clone https://github.com/kore4lyf/frontend_web-dev.git
 
 
 ## Tree
+```
 root
 |-- css
 |   |-- styles.css
@@ -110,3 +111,4 @@ root
 |-- index.html
 |
 `-- README.md
+```
